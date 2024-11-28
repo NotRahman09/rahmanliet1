@@ -1,2 +1,4 @@
 # rahmanliet1
-half stack developer
+half stack developer.graphics
+
+
